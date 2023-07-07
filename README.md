@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chethan</h1>
 <h3 align="center">A ✨ tech enthusiast ✨, 🧑‍💻 coder, frontend and backed developer from India. Passionate about Robotics 🤖, Ethical Hacking 💻, Web Development 🧑‍💻 & Self Driving Cars 🚗.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan222&label=Profile%20views&color=0e75b6&style=flat" alt="chethan222" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChethanPutran&label=Profile%20views&color=0e75b6&style=flat" alt="ChethanPutran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethan222" alt="chethan222" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran" alt="ChethanPutran" /></a> </p>
 
-- 🔭 I’m currently working on [Idea-Show-Case](https://github.com/Chethan222/Idea-Show-Case)
+- 🔭 I’m currently working on [Idea-Show-Case](https://github.com/ChethanPutran/Idea-Show-Case)
 
 - 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Self Driving Cars and Robotics Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chethan222](https://github.com/Chethan222)
+- 👨‍💻 All of my projects are available at [https://github.com/ChethanPutran](https://github.com/ChethanPutran)
 
 - 💬 Ask me about **html,css,js,node,python,cpp,c**
 
