@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **chethansputran222@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aPZ3KxJUMiLXHt7-h1LxwuOmkLvhwayx/view?usp=drivesdk](https://drive.google.com/file/d/1aPZ3KxJUMiLXHt7-h1LxwuOmkLvhwayx/view?usp=drivesdk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chethan-putran-4958001a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan-putran-4958001a4" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethan222&show_icons=true&locale=en&layout=compact" alt="chethan222" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChethanPutran&show_icons=true&locale=en&layout=compact" alt="ChethanPutran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chethan222&show_icons=true&locale=en" alt="chethan222" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChethanPutran&show_icons=true&locale=en" alt="ChethanPutran" /></p>
