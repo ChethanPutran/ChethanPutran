@@ -1,29 +1,61 @@
-<h1 align="center">Hi 👋, I'm Chethan</h1>
-<h3 align="center">A ✨ tech enthusiast ✨, 🧑‍💻 coder, frontend and backed developer from India. Passionate about Robotics 🤖, Ethical Hacking 💻, Web Development 🧑‍💻 & Self Driving Cars 🚗.</h3>
+<h1 align="center">Hi 👋, I'm Chethan Putran</h1>
+<h3 align="center">🚀 M.Tech Student @ IISc | 🤖 Robotics & AI Enthusiast | 💡 Passionate about Scalable Systems, ML, and Simulation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChethanPutran&label=Profile%20views&color=0e75b6&style=flat" alt="ChethanPutran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran" alt="ChethanPutran" /></a> </p>
-
-- 🔭 I’m currently working on [Idea-Show-Case](https://github.com/ChethanPutran/Idea-Show-Case)
-
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **Self Driving Cars and Robotics Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChethanPutran](https://github.com/ChethanPutran)
-
-- 💬 Ask me about **html,css,js,node,python,cpp,c**
-
-- 📫 How to reach me **chethansputran222@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chethan-putran-4958001a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan-putran-4958001a4" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChethanPutran&label=Profile%20views&color=0e75b6&style=flat" alt="ChethanPutran" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChethanPutran&show_icons=true&locale=en&layout=compact" alt="ChethanPutran" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChethanPutran&show_icons=true&locale=en" alt="ChethanPutran" /></p>
+🎓 **About Me**
+
+- 🛠️ Started with **Mechanical Engineering**, now diving deep into **AI, ML, and Scientific Computing**
+- 💡 Passionate about **Robotics**, **Simulation**, **Scalable Systems**, and **Intelligent Automation**
+- 📚 Learning advanced topics in **AI**, **Distributed Systems**, and **Simulation**
+- 🤝 Open to collaborations on **Self-driving cars**, **Intelligent robotics**, and **Simulation-based AI**
+- 🌍 My projects: [GitHub Portfolio](https://github.com/ChethanPutran)
+- 📫 Reach me at: **chethansputran222@gmail.com**
+
+---
+
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/chethan-putran" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-272D32?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran&theme=radical&margin-w=10" alt="ChethanPutran trophies" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChethanPutran&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChethanPutran&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
