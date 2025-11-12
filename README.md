@@ -81,7 +81,7 @@ I am skilled in **Deep Learning** and **Computer Vision**, with a strong focus o
 Developed an **intelligent robotic arm** capable of understanding tasks through **human voice commands** and **visual demonstrations**.  
 Worked on **stereo vision depth estimation**, **robot kinematics**, **CNN–LSTM-based action recognition**, **YOLOv8 + Deep SORT** for perception, and an **LLM-based task planning module**.  
 Integrated perception–planning–control using **ROS2** with modular architecture and implemented real-time control for adaptive grasping.  
-*Tech Stack:* Python, PyTorch, OpenCV, ROS2, YOLOv8, Deep SORT, Transformers, LSTM, SpeechRecognition, Arduino  
+*Tech Stack:* Python, PyTorch, OpenCV, ROS2, YOLOv8, Mediapipe, Deep SORT, LSTM, SpeechRecognition, Arduino, RaspberryPi 
 
 ---
 
