@@ -72,143 +72,77 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-**Projects**
-Here’s a **professionally formatted version** of your project portfolio — clean, well-structured, and ideal for resumes, LinkedIn, GitHub profile README, or IISc application documents.
-I’ve grouped projects by domain and included clickable links for clarity.
+---
+
+## 🚀 **Featured Projects**
+
+### 🤖 [Multifunctional Intelligent Robotic Arm (Major Project)](https://github.com/ChethanPutran/MIRS)
+Designed and developed an intelligent robotic arm capable of understanding tasks through both human voice commands and live demonstrations.  
+Worked on **stereo vision depth estimation**, **kinematics**, **dynamics**, and **path planning**.  
+Implemented a **CNN–LSTM-based action recognition model**, **YOLOv8 + Deep SORT** for perception and tracking, and an **LLM-based decision-making module** for task planning.  
+Developed complete **vision and voice pipelines** and implemented the framework in **ROS2** for modular perception–planning–control execution.
+
+### 🚗 [Automatic Braking and Speed Control System (Minor Project)](https://github.com/ChethanPutran/Automatic-Braking-and-Speed-Control-System-using-Deep-Neural-Network)
+Developed a **CNN-based model** for predicting optimal vehicle speed and automatic braking using real-time camera input.  
+Contributed to **data collection, preprocessing, and model training** using **PyTorch and OpenCV**.  
+Achieved **89% validation accuracy** and **87% test accuracy**, demonstrating real-time collision avoidance potential.
 
 ---
 
 ## 🧠 **AI & Deep Learning Projects**
 
-* **[Automatic Braking and Speed Control System using Deep Neural Network](https://github.com/Chethan222/Reinforced-Learning)**
-  Developed a deep learning model for autonomous speed control and braking based on real-time camera input, improving safety and driving comfort.
+* **[Reinforcement Learning Experiments](https://github.com/Chethan222/Reinforced-Learning)**  
+  Implemented deep reinforcement learning for control and optimization tasks.  
   *Tech Stack:* Python, PyTorch, OpenCV, Deep Learning
 
-* **[Lane Line Detection for Self-Driving Cars](https://github.com/Chethan222/Lane-Detection-for-Self-Driving-Cars)**
-  Implemented lane detection using computer vision and edge detection techniques for autonomous navigation.
+* **[Lane Line Detection for Self-Driving Cars](https://github.com/Chethan222/Lane-Detection-for-Self-Driving-Cars)**  
+  Implemented lane detection using computer vision and edge detection techniques.  
   *Tech Stack:* Python, OpenCV
 
-* **[Longitudinal & Lateral Control of Self-Driving Cars](https://github.com/Chethan222/Self-Driving-Cars)**
-  Simulated longitudinal and lateral control using reinforcement learning for trajectory following.
+* **[Longitudinal & Lateral Control of Self-Driving Cars](https://github.com/Chethan222/Self-Driving-Cars)**  
+  Simulated vehicle trajectory following using RL-based controllers.  
   *Tech Stack:* Python, Reinforcement Learning
 
-* **[Machine Learning with Python](https://github.com/Chethan222/ML-with-Python)**
-  Implemented core ML algorithms (Regression, Classification, Clustering) and evaluated performance across datasets.
+* **[Machine Learning with Python](https://github.com/Chethan222/ML-with-Python)**  
+  Implemented and compared core ML algorithms.  
   *Tech Stack:* Python, NumPy, Pandas, Scikit-learn
-
-* **[Data Science using K-Means Clustering](https://github.com/Chethan222/Datascience-using-K-Means-clustering)**
-  Explored clustering techniques for data pattern discovery and visualization.
-  *Tech Stack:* Python, Matplotlib, Scikit-learn
 
 ---
 
 ## ⚙️ **Robotics & Embedded Systems**
 
-* **[Automatic Cutting Tool-tip Temperature Measurement Device](https://github.com/Chethan222/Tool-tip-temperature-measurement-using-Arduino-and-Python)**
-  Automated device to measure tool-tip temperature during turning operation using K-type thermocouple and Arduino.
-  *Tech Stack:* Python, Tkinter, C/C++, Arduino, SQLite
+* **[Automatic Cutting Tool-tip Temperature Measurement Device](https://github.com/Chethan222/Tool-tip-temperature-measurement-using-Arduino-and-Python)**  
+  Automated device for tool temperature measurement using Arduino and Python GUI.  
+  *Tech Stack:* Python, Tkinter, C/C++, Arduino, SQLite  
 
-* **[Obstacle Avoiding Robot](https://github.com/Chethan222/Obstacle-Avoiding-Robot)**
-  Designed a robot using ultrasonic sensors for autonomous obstacle avoidance.
-  *Tech Stack:* Arduino, Embedded C
-
-* **[Home Light Control using IoT](https://github.com/Chethan222/IOT-stack)**
-  IoT-based home automation system for light control via web dashboard.
-  *Tech Stack:* NodeMCU, PHP, MySQL
+* **[Obstacle Avoiding Robot](https://github.com/Chethan222/Obstacle-Avoiding-Robot)**  
+  Autonomous robot with ultrasonic sensors for collision avoidance.  
+  *Tech Stack:* Arduino, Embedded C  
 
 ---
 
 ## 💻 **Full Stack Web Development**
 
-* **[Mangalorean C Food](http://manglorian-c-food.herokuapp.com/)**
-  Full-stack food ordering website designed for seafood enthusiasts.
-  *Tech Stack:* HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+* **[Mangalorean C Food](http://manglorian-c-food.herokuapp.com/)** – Full-stack food ordering web app.  
+  *Tech Stack:* HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
 
-* **[The Tie the Knot – Marriage Hall Booker](https://github.com/Chethan222/Booker)**
-  A hall booking platform where users can search halls and admins can manage facilities.
-  *Tech Stack:* HTML, CSS, JavaScript, Flask, MySQL
+* **[Projects Show Case](https://idea-show-case.herokuapp.com/)** – MERN platform for showcasing innovative ideas.  
+  *Tech Stack:* React.js, Node.js, Express.js, MongoDB  
 
-* **[Projects Show Case](https://idea-show-case.herokuapp.com/)**
-  MERN stack platform for tech enthusiasts to present ideas and attract sponsorships.
-  *Tech Stack:* React.js, Node.js, Express.js, MongoDB
-
-* **[The Nature Website](https://chethan222.github.io/The-Nature-Website/)**
-  An informative and interactive website for nature enthusiasts.
-  *Tech Stack:* HTML, CSS, JavaScript
-
-* **[Weather App](https://github.com/Chethan222/Weather-App)**
-  Displays real-time weather information based on user location.
-  *Tech Stack:* Node.js, Express.js, API Integration
-
-* **[Notes App](https://github.com/Chethan222/Note-App-React)**
-  Cross-platform note-taking application.
-  *Tech Stack:* React.js, Node.js
-
-* **[Todo React App](https://github.com/Chethan222/Todo-App)**
-  Simple and elegant task management web app.
-  *Tech Stack:* React.js
-
----
-
-## 💬 **Networking & Chat Applications**
-
-* **[Chat App](https://github.com/Chethan222/Chat-App)**
-  Real-time chat app with room creation and user authentication.
-  *Tech Stack:* Node.js, Socket.io, Express.js, MongoDB
-
-* **[Networking with Python & Bots](https://github.com/Chethan222/Bots)**
-  Developed Python scripts for automation, web interactions, and network operations.
-  *Tech Stack:* Python
-
----
-
-## 📚 **Desktop & GUI Applications**
-
-* **[The Digi Book Store](https://github.com/Chethan222/Book_Store)**
-  A GUI-based library management system.
-  *Tech Stack:* Python, Tkinter, SQLite
-
-* **[Dictionary App](https://github.com/Chethan222/Dictionary/)**
-  Offline and online dictionary application.
-  *Tech Stack:* Python, API Integration
-
-* **[Cross-Platform Mobile App](https://github.com/Chethan222/Python-App)**
-  Multi-platform GUI app developed using Kivy.
-  *Tech Stack:* Python, Kivy
-
-* **[Calculator Android App](https://github.com/Chethan222/Calculator-App/)**
-  A simple calculator app built using Java and XML.
-  *Tech Stack:* Java, Android Studio
+* **[Chat App](https://github.com/Chethan222/Chat-App)** – Real-time chat platform with Socket.io.  
+  *Tech Stack:* Node.js, Express.js, MongoDB  
 
 ---
 
 ## 🔒 **Cybersecurity & Automation**
 
-* **[Hacking Script Development](https://github.com/Chethan222/Hacker_Scripts)**
-  Developed custom Python tools for ethical hacking and security analysis.
-  *Tech Stack:* Python, Kali Linux
+* **[Hacking Script Development](https://github.com/Chethan222/Hacker_Scripts)**  
+  Python-based penetration testing and vulnerability assessment toolkit.  
+  *Tech Stack:* Python, Kali Linux  
 
-* **[Web Scraper](https://github.com/Chethan222/Web-Scraper)**
-  Automated data collection from websites for analysis.
-  *Tech Stack:* Python, BeautifulSoup
-
-* **[Motion Detection System](https://github.com/Chethan222/Motion-Detection-System)**
-  Developed a motion detection system using OpenCV for security applications.
-  *Tech Stack:* Python, OpenCV
-
----
-
-## ⚗️ **Scientific & Engineering Applications**
-
-* **[Python for Mechanical Engineers](https://github.com/Chethan222/Python-For-Mechanical-Engineers/tree/main)**
-  Scripts for mechanical design, thermal analysis, and data visualization.
-  *Tech Stack:* Python, NumPy, Matplotlib
-
-* **[Weather and Posts Backend (Internship Project)](https://github.com/Chethan222/Flask-Backend-Internship)**
-  Backend API development for weather and user posts.
-  *Tech Stack:* Flask, REST API, Python
-
-
+* **[Motion Detection System](https://github.com/Chethan222/Motion-Detection-System)**  
+  Security surveillance tool using OpenCV for motion tracking.  
+  *Tech Stack:* Python, OpenCV  
 
 ---
 
