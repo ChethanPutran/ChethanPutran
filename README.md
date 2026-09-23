@@ -135,7 +135,7 @@ These are the projects I currently consider the main representation of my work.
 * Implemented **user knowledge modeling, Bayesian knowledge tracing, prerequisite detection, adaptive explanations, and personalized learning-path generation**.
 * Supports multimodal interaction through **text, document context, voice input/output, follow-up questions, and resource recommendations**.
 
-**Tech Stack:** Python, LLMs, NLP, Vector Retrieval, Knowledge Graphs, Bayesian Knowledge Tracing, spaCy, uv
+**Tech Stack:** Python, LLMs, NLP, Vector Retrieval, Knowledge Graphs, Bayesian Knowledge Tracing, spaCy, uv, GUI
 
 ---
 
@@ -147,7 +147,7 @@ These are the projects I currently consider the main representation of my work.
 * Implemented modular backend components for **datasets, models, training, fine-tuning, evaluation, optimization, deployment, and asynchronous pipeline execution**.
 * Provides live pipeline progress and execution monitoring through **WebSocket-based communication**.
 
-**Tech Stack:** Python, FastAPI, LLMs, Fine-Tuning, DAG Pipelines, WebSockets, RAG, Docker
+**Tech Stack:** Python, FastAPI, LLMs, Fine-Tuning, DAG Pipelines, WebSockets, RAG, Docker, React, CSS
 
 ---
 
@@ -318,22 +318,31 @@ A broader catalogue of my work across **AI/ML, systems, computer vision, robotic
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran&theme=radical&margin-w=10" alt="ChethanPutran trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChethanPutran&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <a href="https://github.com/ChethanPutran">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ChethanPutran&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Chethan Putran's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ChethanPutran">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanPutran&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChethanPutran&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChethanPutran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
