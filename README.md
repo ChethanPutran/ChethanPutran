@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethan Putran</h1>
-<h3 align="center">🚀 M.Tech Student @ IISc | 🤖 AI & Robotics Enthusiast | 💡 Passionate about ML, Simulation and Scalable Systems</h3>
+
+<h3 align="center">🧠 AI/ML | 🤖 Intelligent Systems | ⚡ Distributed Computing | 💻 Software Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChethanPutran&label=Profile%20views&color=0e75b6&style=flat" alt="ChethanPutran" />
@@ -9,172 +10,324 @@
 
 ## 🎓 About Me
 
-I am currently pursuing my **M.Tech in Computational and Data Sciences** at the **Indian Institute of Science (IISc), Bengaluru**.  
-My research interests lie at the intersection of **Multimodal and Generative AI**, **Scientific Computing**, and **Distributed System Design**.  
-I am skilled in **Deep Learning** and **Computer Vision**, with a strong focus on building intelligent robotic and visual systems capable of **learning, reasoning, and acting through multimodal perception**.
+I am currently pursuing my **M.Tech in Computational and Data Sciences** at the **Indian Institute of Science (IISc), Bengaluru**.
+
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Multimodal AI, Intelligent Systems, Scientific Computing, and Distributed Systems**.
+
+I enjoy building systems that combine **machine learning models with software infrastructure, perception, reasoning, and real-world interaction**.
+
+* 🎓 M.Tech in **Computational and Data Sciences @ IISc Bengaluru**
+* 🛠️ Mechanical Engineering background with a transition toward **AI/ML and software systems**
+* 🧠 Exploring **Generative AI, Multimodal AI, LLMs, Computer Vision, and Intelligent Agents**
+* ⚡ Interested in **Distributed Systems, ML Systems, Scientific Computing, and scalable AI infrastructure**
+* 🤖 Experience building **AI-powered robotic and perception systems**
+* 🔬 Exploring **physics-aware machine learning and simulation-based AI**
+* 💻 Comfortable working across **Python, C++, backend systems, ML frameworks, and Linux**
+* 🤝 Open to collaborations in **AI/ML, intelligent systems, ML infrastructure, and applied AI**
 
 ---
 
-- 🛠️ Began with a foundation in **Mechanical Engineering**, now deeply engaged in **AI, ML, and Scientific Computing**  
-- 💡 Passionate about **Robotics**, **Simulation**, **Scalable Systems**, and **Intelligent Automation**  
-- 📚 Exploring advanced topics in **Multimodal AI**, **Distributed Systems**, and **Physics-informed Simulation**  
-- 🤝 Open to collaborations on **Intelligent Robotics**, **Simulation-based AI Systems**, and **Self-driving Cars**  
-- 🌍 Explore my work: [GitHub Portfolio](https://github.com/ChethanPutran)  
-- 📫 Reach me at: **chethansputran222@gmail.com**
+## 🔗 Connect With Me
 
----
-
-<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/chethan-putran" target="blank">
+  <a href="https://linkedin.com/in/chethan-putran" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
+
+📫 **Email:** [chethansputran222@gmail.com](mailto:chethansputran222@gmail.com)
 
 ---
 
 ## 🛠️ Skills, Tools & Technologies
 
-**Languages**
+### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-272D32?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-**AI / ML / DL Frameworks**
+### AI / ML / Deep Learning
+
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-**Scientific Computing**
+### Generative AI & AI Systems
+
+* Large Language Models
+* Multimodal AI
+* RAG and semantic retrieval
+* AI Agents
+* LLM fine-tuning
+* Knowledge graphs
+* Vector databases
+* Model evaluation
+* ML pipelines
+
+### Scientific & High-Performance Computing
+
 <p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-206d9c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MPI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenMP-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-**Robotics & Embedded**
+### Backend & Systems
+
 <p>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### Robotics & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge"/>
 </p>
 
-**Tools & Platforms**
+### Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 **Featured Projects**
+# 🚀 Featured Projects
 
-### 🤖 [Multifunctional Intelligent Robotic Arm (Major Project)](https://github.com/ChethanPutran/MIRS)
-Developed an **intelligent robotic arm** capable of understanding tasks through **human voice commands** and **visual demonstrations**.  
-Worked on **stereo vision depth estimation**, **robot kinematics**, **CNN–LSTM-based action recognition**, **YOLOv8 + Deep SORT** for perception, and an **LLM-based task planning module**.  
-Integrated perception–planning–control using **ROS2** with modular architecture and implemented real-time control for adaptive grasping.  
-*Tech Stack:* Python, PyTorch, OpenCV, ROS2, YOLOv8, Mediapipe, Deep SORT, LSTM, SpeechRecognition, Arduino, RaspberryPi 
+These are the projects I currently consider the main representation of my work.
 
----
+## 🤖 [Personal AI System (PAI)](https://github.com/ChethanPutran/PersonalAi-PAI)
 
-### 🚗 [Automatic Braking and Speed Control System (Minor Project)](https://github.com/ChethanPutran/Automatic-Braking-and-Speed-Control-System-using-Deep-Neural-Network)
-Designed a **deep learning–based system** for real-time vehicle speed prediction and automatic braking using live camera input.  
-Handled **data acquisition, preprocessing, and model training** to ensure smooth dynamic response and safety.  
-Achieved **89% validation accuracy** and **87% test accuracy** on real-world scenarios.  
-*Tech Stack:* Python, PyTorch, OpenCV, NumPy, Scikit-learn, Embedded Systems  
+**A distributed personal AI runtime for planning, orchestrating, and executing tasks across connected devices.**
+
+* Designed a modular AI runtime separating **goal understanding, planning, task graphs, authorization, capability resolution, device selection, memory, and execution**.
+* Built a capability-based execution architecture supporting **server, desktop, and Android executors**, with REST/WebSocket communication and a Flutter client.
+* Implemented modular components for **agents, orchestration, plugins, memory, event-driven communication, and multi-device task execution**.
+
+**Tech Stack:** Python, FastAPI, LangChain, LangGraph, Flutter, SQLite/PostgreSQL, ChromaDB, Neo4j, Redis, NATS, Playwright, C/C++
 
 ---
 
-## 🧠 **AI & Deep Learning Projects**
-- [Machine Learning with Python](https://github.com/Chethan222/ML-with-Python): Core ML algorithms and model evaluation.  
-  *Tech Stack:* Python, NumPy, Pandas, Scikit-learn  
-- [Data Science using K-Means Clustering](https://github.com/Chethan222/Datascience-using-K-Means-clustering): Cluster analysis and visualization.  
-  *Tech Stack:* Python, Matplotlib, Scikit-learn  
-- [Reinforcement Learning Experiments](https://github.com/Chethan222/Reinforced-Learning): RL algorithms for control and optimization.  
-  *Tech Stack:* Python, PyTorch, OpenAI Gym, Matplotlib  
-- [Lane Line Detection for Self-Driving Cars](https://github.com/Chethan222/Lane-Detection-for-Self-Driving-Cars): Lane marking detection using CV.  
-  *Tech Stack:* Python, OpenCV, NumPy  
-- [Longitudinal & Lateral Control of Self-Driving Cars](https://github.com/Chethan222/Self-Driving-Cars): RL-based vehicle control simulation.  
-  *Tech Stack:* Python, Reinforcement Learning, Matplotlib  
-- [Motion Detection System](https://github.com/Chethan222/Motion-Detection-System): Real-time motion detection for security.  
-  *Tech Stack:* Python, OpenCV  
+## 📘 [DocExplainer](https://github.com/ChethanPutran/DocExplainer)
+
+**A context-aware, knowledge-adaptive document tutor using Large Language Models.**
+
+* Built a document-centric AI tutoring system supporting **hierarchical document parsing, semantic retrieval, concept extraction, knowledge graphs, and context-aware explanations**.
+* Implemented **user knowledge modeling, Bayesian knowledge tracing, prerequisite detection, adaptive explanations, and personalized learning-path generation**.
+* Supports multimodal interaction through **text, document context, voice input/output, follow-up questions, and resource recommendations**.
+
+**Tech Stack:** Python, LLMs, NLP, Vector Retrieval, Knowledge Graphs, Bayesian Knowledge Tracing, spaCy, uv
 
 ---
 
-## ⚙️ **Robotics & Embedded Systems**
-- [Automatic Cutting Tool-tip Temperature Measurement Device](https://github.com/Chethan222/Tool-tip-temperature-measurement-using-Arduino-and-Python): Automated temperature monitoring and GUI display.  
-  *Tech Stack:* Python, Tkinter, C/C++, Arduino, SQLite  
-- [Obstacle Avoiding Robot](https://github.com/Chethan222/Obstacle-Avoiding-Robot): Autonomous obstacle detection and avoidance.  
-  *Tech Stack:* Arduino, Embedded C  
-- [Home Light Control using IoT](https://github.com/Chethan222/IOT-stack): IoT-based home lighting automation.  
-  *Tech Stack:* NodeMCU, PHP, MySQL, HTML  
+## 🧠 [LLM Fine-Tuning Platform](https://github.com/ChethanPutran/LLM-Fine-Tuning-Platform)
+
+**A full-stack platform for building and executing end-to-end LLM fine-tuning pipelines.**
+
+* Designed a **visual DAG-based pipeline system** covering data collection, preprocessing, tokenization, training, fine-tuning, optimization, evaluation, and deployment.
+* Implemented modular backend components for **datasets, models, training, fine-tuning, evaluation, optimization, deployment, and asynchronous pipeline execution**.
+* Provides live pipeline progress and execution monitoring through **WebSocket-based communication**.
+
+**Tech Stack:** Python, FastAPI, LLMs, Fine-Tuning, DAG Pipelines, WebSockets, RAG, Docker
 
 ---
 
-## 💻 **Full Stack Web Development**
-- [Mangalorean C Food](http://manglorian-c-food.herokuapp.com/): Full-stack food ordering platform.  
-  *Tech Stack:* HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
-- [Projects Show Case](https://idea-show-case.herokuapp.com/): MERN-based idea sharing platform.  
-  *Tech Stack:* React.js, Node.js, Express.js, MongoDB  
-- [The Tie the Knot – Marriage Hall Booker](https://github.com/Chethan222/Booker): Event hall booking and management system.  
-  *Tech Stack:* Flask, HTML, CSS, MySQL, JavaScript  
-- [The Nature Website](https://chethan222.github.io/The-Nature-Website/): Interactive nature information site.  
-  *Tech Stack:* HTML, CSS, JavaScript  
-- [Weather App](https://github.com/Chethan222/Weather-App): Weather updates using APIs.  
-  *Tech Stack:* Node.js, Express.js, REST API  
-- [Notes App](https://github.com/Chethan222/Note-App-React): Note-taking and storage app.  
-  *Tech Stack:* React.js, Node.js  
-- [Todo React App](https://github.com/Chethan222/Todo-App): Task management app.  
-  *Tech Stack:* React.js  
+## 🎥 [Visi-Agent](https://github.com/ChethanPutran/Visi-Agent)
+
+**Agentic multimodal video analytics and retrieval system.**
+
+* Built a multimodal video understanding pipeline combining **Whisper transcription, visual frame analysis, temporal alignment, embeddings, vector retrieval, and LLM reasoning**.
+* Designed an agentic retrieval architecture with tools for **video search, temporal analysis, and conversational video question answering**.
+* Structured the system as separate services for **video ingestion, processing, querying, LLM interaction, API routing, and storage abstractions**.
+
+**Tech Stack:** Python, FastAPI, Flask, LangChain, Gemini, Whisper, OpenCV, FFmpeg, FAISS, Chroma, Pinecone, MCP, Docker
 
 ---
 
-## 💬 **Networking & Automation**
-- [Chat App](https://github.com/Chethan222/Chat-App): Real-time messaging system.  
-  *Tech Stack:* Node.js, Express.js, Socket.io, MongoDB  
-- [Networking with Python & Bots](https://github.com/Chethan222/Bots): Automated scripts for network and web ops.  
-  *Tech Stack:* Python, Requests, Selenium  
-- [Hacking Script Development](https://github.com/Chethan222/Hacker_Scripts): Custom tools for ethical hacking and security.  
-  *Tech Stack:* Python, Kali Linux  
-- [Web Scraper](https://github.com/Chethan222/Web-Scraper): Automated data extraction for analytics.  
-  *Tech Stack:* Python, BeautifulSoup, Requests  
+## 📚 [ML with Python](https://github.com/ChethanPutran/ML-with-Python)
+
+**A hands-on collection of machine learning implementations, experiments, tutorials, and coursework.**
+
+* Implemented and explored classical ML algorithms including **linear/logistic regression, KNN, Naive Bayes, decision trees, SVMs, K-Means, GMMs, PCA, and Bayesian regression**.
+* Explored **neural networks, backpropagation, CNNs, RNNs, generative models, computer vision, NLP, Kalman filtering, optimization, and search algorithms**.
+* Combines mathematical understanding with **from-scratch implementations, framework-based experiments, visualization, and practical datasets**.
+
+**Tech Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow, MATLAB, Jupyter
 
 ---
 
-## 🖥️ **GUI & Application Development**
-- [The Digi Book Store](https://github.com/Chethan222/Book_Store): Library management GUI system.  
-  *Tech Stack:* Python, Tkinter, SQLite  
-- [Dictionary App](https://github.com/Chethan222/Dictionary/): Offline/online dictionary.  
-  *Tech Stack:* Python, Requests, Tkinter  
-- [Cross-Platform Mobile App](https://github.com/Chethan222/Python-App): Multi-platform GUI app.  
-  *Tech Stack:* Python, Kivy  
-- [Calculator Android App](https://github.com/Chethan222/Calculator-App/): Android calculator application.  
-  *Tech Stack:* Java, XML, Android Studio  
+## 🧪 [Machine Learning Basic Projects](https://github.com/ChethanPutran/Machine-Learning-Basic-Projects)
+
+**A collection of applied Machine Learning and Deep Learning projects built around practical ML workflows.**
+
+Projects include:
+
+* House Price Prediction
+* Student Performance Prediction
+* Spam Classification
+* Credit Risk Classification
+* Customer Churn Prediction
+* Fraud Detection
+* Customer Segmentation
+* Image Captioning
+* MNIST Classification
+* Recommendation and anomaly-detection experiments
+
+The repository covers **regression, classification, clustering, anomaly detection, NLP, computer vision, recommendation systems, and deep learning**.
+
+**Tech Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, Jupyter
 
 ---
 
-## ⚗️ **Scientific & Engineering Computing**
-- [Python for Mechanical Engineers](https://github.com/Chethan222/Python-For-Mechanical-Engineers/tree/main): Scripts for mechanical analysis and visualization.  
-  *Tech Stack:* Python, NumPy, Matplotlib, Pandas  
+## 🦾 [MIRS — AI-Powered Biomimetic Robotic Arm](https://github.com/ChethanPutran/MIRS)
+
+**A multifunctional robotic arm integrating AI, stereo vision, natural language understanding, and a biomimetic hand.**
+
+* Developed a robotic manipulation system combining **stereo vision, human hand pose estimation, object recognition/tracking, action segmentation, and LLM-based task understanding**.
+* Implemented a modular **ROS 2 architecture** for task recording, extraction, planning, execution, and robot control.
+* Integrated a **6-DOF robotic arm, 9-DOF biomimetic hand, Arduino control, Raspberry Pi stereo vision, inverse kinematics, trajectory planning, and feedback control**.
+
+**Tech Stack:** Python, C++, ROS 2, Gazebo, PyTorch, OpenCV, LLMs, Arduino, Raspberry Pi
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+# 📚 Project Catalogue
+
+A broader catalogue of my work across **AI/ML, systems, computer vision, robotics, web development, automation, and engineering computing**.
+
+## 🧠 AI / Machine Learning
+
+* [Anomaly Detection](https://github.com/ChethanPutran/AnomalyDetection)
+* [Collaborative Filtering Recommendation System](https://github.com/ChethanPutran/Collaborative-Filtering-for-a-recommendation-system)
+* [Data Analysis using Python](https://github.com/ChethanPutran/Data-Analysis-using-Python)
+* [Distributed LLM Training](https://github.com/ChethanPutran/Distributed-LLM-Training)
+* [Lane Detection for Self-Driving Cars](https://github.com/ChethanPutran/Lane-Detection-for-Self-Driving-Cars)
+* [Machine Learning with Octave](https://github.com/ChethanPutran/Machine-Learning-with-Octave)
+* [MIRAAI](https://github.com/ChethanPutran/MIRAAI)
+* [Music Recommender](https://github.com/ChethanPutran/Music-Recommender)
+* [PhysiWorldUAV](https://github.com/ChethanPutran/PhysiWorldUAV)
+* [QuantTrading](https://github.com/ChethanPutran/QuantTrading)
+* [Reinforcement Learning](https://github.com/ChethanPutran/Reinforced-Learning)
+* [Self-Driving Cars](https://github.com/ChethanPutran/Self-Driving-Cars)
+* [Smart Diagnostic System for Autonomous Vehicles](https://github.com/ChethanPutran/Smart-Diagnostic-System-for-Autonomous-Vehicles-SDSAV-)
+
+---
+
+## ⚡ Distributed Systems / Computing / Algorithms
+
+* [Data Structures with C++](https://github.com/ChethanPutran/Data-Structures-with-CPP)
+* [Dynamic Programming with C++](https://github.com/ChethanPutran/Dynamic-Programming-with-CPP)
+* [Networking with Python](https://github.com/ChethanPutran/Networking-with-Python)
+* [Scaling Study on Apache Spark](https://github.com/ChethanPutran/SSDS-Scaling-Study-on-Apache-Spark)
+
+---
+
+## 👁️ Computer Vision / Sensor Fusion
+
+* [Data Fusion with Kalman Filters](https://github.com/ChethanPutran/Data-Fusion-with-Kalman-Filters)
+* [Motion Detection System](https://github.com/ChethanPutran/Motion-Detection-System)
+* [Sensor Fusion with C++](https://github.com/ChethanPutran/Sensor-Fusion-with-C-)
+* [Stereo Camera Package for Raspberry Pi 4](https://github.com/ChethanPutran/Stereo-Camera-Package-for-Raspberry-Pi-4)
+* [DroneKit Python](https://github.com/ChethanPutran/dronekit-python)
+
+---
+
+## 🤖 Robotics / Embedded / IoT
+
+* [Edge Avoiding Robot](https://github.com/ChethanPutran/Edge-Avoiding-Robo)
+* [IOT Stack](https://github.com/ChethanPutran/IOT-stack)
+* [Material Handling System](https://github.com/ChethanPutran/Material-Handling-System-)
+* [Obstacle Avoiding Robot](https://github.com/ChethanPutran/Obstacle-Avoiding-Robot)
+* [Tool-Tip Temperature Measurement](https://github.com/ChethanPutran/Tool-tip-temperature-measurement-using-Arduino-and-Python)
+* [Voice Controlled Robot](https://github.com/ChethanPutran/Voice-Controlled-Robot)
+
+---
+
+## 🌐 Web / Backend / Full Stack
+
+* [Booker](https://github.com/ChethanPutran/Booker)
+* [Book Store](https://github.com/ChethanPutran/Book_Store)
+* [Chit-Chat](https://github.com/ChethanPutran/Chit-Chat)
+* [Data Collector Web App](https://github.com/ChethanPutran/Data-Collector-Web-App)
+* [E-Kart](https://github.com/ChethanPutran/E-Kart)
+* [Flask Backend Internship](https://github.com/ChethanPutran/Flask-Backend-Internship)
+* [Flask Website](https://github.com/ChethanPutran/flask_website)
+* [Flask Website Hack](https://github.com/ChethanPutran/Flask-Website-Hack)
+* [HTML Components](https://github.com/ChethanPutran/HTML_Components)
+* [Idea Show Case](https://github.com/ChethanPutran/Idea-Show-Case)
+* [JS Movies Project](https://github.com/ChethanPutran/JS-Movies-Project)
+* [Mangalorean C Food](https://github.com/ChethanPutran/Mangalorian-C-Food)
+* [Notes Expense Tracker](https://github.com/ChethanPutran/Notes-Expense-Tracker)
+* [Project Showcase](https://github.com/ChethanPutran/Project-Showcase)
+* [The Nature Website](https://github.com/ChethanPutran/The-Nature-Website)
+* [Web Map](https://github.com/ChethanPutran/Web_Map)
+* [Weather App](https://github.com/ChethanPutran/Weather-App)
+* [Weather Forecaster](https://github.com/ChethanPutran/WeatherForecaster)
+
+---
+
+## 🐍 Python / Automation / Utilities
+
+* [Bots](https://github.com/ChethanPutran/Bots)
+* [Calculator App](https://github.com/ChethanPutran/Calculator-App)
+* [Dictionary](https://github.com/ChethanPutran/Dictionary)
+* [Excel Automation](https://github.com/ChethanPutran/Excel-Automation)
+* [Google Script](https://github.com/ChethanPutran/Google-Script)
+* [Hacker Scripts](https://github.com/ChethanPutran/Hacker_Scripts)
+* [MAC Changer for Linux](https://github.com/ChethanPutran/MAC-Changer-for-linux)
+* [Python App](https://github.com/ChethanPutran/Python-App)
+* [Web Scraper](https://github.com/ChethanPutran/Web-Scraper)
+
+---
+
+## ⚙️ Mechanical / CAD / Engineering
+
+* [AutoCAD 2D Projects](https://github.com/ChethanPutran/AutoCAD-2D-Projects)
+* [CAD-CAM](https://github.com/ChethanPutran/CAD-CAM)
+* [Python for Mechanical Engineers](https://github.com/ChethanPutran/Python-For-Mechanical-Engineers)
+* [Solid](https://github.com/ChethanPutran/Solid)
+* [Intro to VBS Scripting](https://github.com/ChethanPutran/Intro-to-VBS-Scripting)
+* [Automatic Braking and Speed Control System](https://github.com/ChethanPutran/Automatic-Braking-and-Speed-Control-System-using-Deep-Neural-Network)
+
+---
+
+## 📱 Applications / Other Projects
+
+* [ChethanPutran Portfolio](https://github.com/ChethanPutran/ChethanPutran.github.io)
+* [CPutran Website](https://github.com/ChethanPutran/CPutran-Website)
+* [ChethanPutran Profile Repository](https://github.com/ChethanPutran/ChethanPutran)
+
+---
+
+# 🏆 GitHub Trophies
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran&theme=radical&margin-w=10" alt="ChethanPutran trophies" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+# 📊 GitHub Statistics
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChethanPutran&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -185,4 +338,10 @@ Achieved **89% validation accuracy** and **87% test accuracy** on real-world sce
 
 ---
 
-<p align="center">© 2025 Chethan Putran | Robotics and AI | IISc Bengaluru</p>
+<p align="center">
+  <b>AI/ML • Intelligent Systems • Distributed Computing • Scientific Computing</b>
+</p>
+
+<p align="center">
+  © 2026 Chethan Putran | IISc Bengaluru
+</p>
