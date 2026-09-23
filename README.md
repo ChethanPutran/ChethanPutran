@@ -318,24 +318,36 @@ A broader catalogue of my work across **AI/ML, systems, computer vision, robotic
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <a href="https://github.com/ChethanPutran">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChethanPutran&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChethanPutran?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-71-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+  </a>
+  <a href="https://github.com/ChethanPutran?tab=followers">
+    <img src="https://img.shields.io/github/followers/ChethanPutran?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ChethanPutran?tab=stars">
+    <img src="https://img.shields.io/github/stars/ChethanPutran?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/ChethanPutran">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ChethanPutran&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Chethan Putran's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ChethanPutran">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanPutran&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ChethanPutran&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
